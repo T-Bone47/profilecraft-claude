@@ -1,0 +1,7 @@
+{
+  "headline": "Computer science graduate | Python and SQL | Data analyst intern experience | Seeking junior data analyst and data engineering roles",
+  "about": "I'm a computer science graduate who likes turning messy data into something a team can use.\n\nDuring a summer internship at Northwind Analytics (fictional) I built a weekly sales dashboard in SQL and Python for a team of 4, and wrote a reusable Python script to clean 3 CSV exports.\n\nOutside work I built Trip Planner, a Flask prototype that suggests routes. It runs locally and has unit tests; it is not deployed.\n\nLooking for junior data analyst and data engineering internship roles.",
+  "experience": [{"title":"Data Analyst Intern","company":"Northwind Analytics (fictional)","start":"2024-06","end":"2024-08","current":false,"bullets":["Built a weekly sales dashboard in SQL and Python for a team of 4.","Wrote a reusable Python script to clean 3 CSV exports."]}],
+  "skills": ["Python", "SQL"],
+  "featured": [{"title":"Trip Planner (prototype)","url":"https://github.com/example-user/trip-planner","description":"Flask app that suggests routes. Runs locally with unit tests; not deployed."}]
+}
