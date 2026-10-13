@@ -28,3 +28,20 @@ jobs:
         run: npm test
       - name: Validate fictional example
         run: npm run validate:examples
+
+  claude-plugin-validation:
+    name: Claude Code marketplace and plugin validation
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Install official Claude Code CLI
+        run: |
+          curl -fsSL https://claude.ai/install.sh | bash
+          echo "$HOME/.local/bin" >> "$GITHUB_PATH"
+      - name: Check CLI availability
+        run: claude --version
+      - name: Validate marketplace manifest and referenced plugin
+        run: claude plugin validate . --strict
+      - name: Validate plugin skills and manifest directly
+        run: claude plugin validate ./plugins/profilecraft --strict
