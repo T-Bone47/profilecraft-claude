@@ -1,0 +1,25 @@
+{
+  "name": "profilecraft-community",
+  "owner": {
+    "name": "T-Bone47",
+    "url": "https://github.com/T-Bone47"
+  },
+  "description": "Community marketplace for ProfileCraft, privacy-first LinkedIn profile audit and writing skills for Claude Code.",
+  "plugins": [
+    {
+      "name": "profilecraft",
+      "source": "./plugins/profilecraft",
+      "description": "Manual-first LinkedIn profile audit, rewrite, job-tailoring and project-writing skills. Never logs in to or edits LinkedIn.",
+      "author": {
+        "name": "T-Bone47",
+        "url": "https://github.com/T-Bone47"
+      },
+      "homepage": "https://github.com/T-Bone47/profilecraft-claude#readme",
+      "repository": "https://github.com/T-Bone47/profilecraft-claude",
+      "license": "MIT",
+      "category": "productivity",
+      "tags": ["linkedin", "career", "resume", "writing", "professional-branding"]
+    }
+  ],
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json"
+}

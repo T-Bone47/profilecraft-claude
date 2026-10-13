@@ -1,0 +1,9 @@
+node_modules/
+.env
+.env.*
+.profilecraft/
+profile-draft.*
+proposed-changes.md
+screenshots/
+run_report.md
+.DS_Store

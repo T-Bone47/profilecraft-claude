@@ -1,0 +1,11 @@
+{
+  "name": "profilecraft",
+  "version": "0.1.0",
+  "description": "Privacy-first LinkedIn profile audit and writing skills. Turns your own resume, notes and project docs into evidence-based, copy-ready profile text. Manual-first: never touches LinkedIn.",
+  "license": "MIT",
+  "keywords": ["linkedin", "profile", "resume", "career", "writing"],
+  "displayName": "ProfileCraft for Claude",
+  "author": {"name": "T-Bone47", "url": "https://github.com/T-Bone47"},
+  "homepage": "https://github.com/T-Bone47/profilecraft-claude#readme",
+  "repository": "https://github.com/T-Bone47/profilecraft-claude"
+}
