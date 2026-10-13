@@ -4,21 +4,9 @@
   "private": true,
   "type": "module",
   "license": "MIT",
-  "engines": {
-    "node": ">=20"
-  },
+  "engines": { "node": ">=20" },
   "scripts": {
     "test": "node --test",
     "validate:examples": "node plugins/profilecraft/skills/linkedin-profile-optimizer/validate.mjs examples/draft.example.json examples/profile-input.example.md"
-  },
-  "description": "Privacy-first LinkedIn profile audit and writing skills for Claude Code",
-  "author": "T-Bone47",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/T-Bone47/profilecraft-claude.git"
-  },
-  "bugs": {
-    "url": "https://github.com/T-Bone47/profilecraft-claude/issues"
-  },
-  "homepage": "https://github.com/T-Bone47/profilecraft-claude#readme"
+  }
 }
