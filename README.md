@@ -1,5 +1,9 @@
 # ProfileCraft for Claude
 
+<p align="center">
+  <img src="assets/profilecraft-banner.svg" alt="ProfileCraft for Claude Code: evidence-based LinkedIn profile writing." width="100%">
+</p>
+
 **Evidence-based LinkedIn profile writing and audit skills for Claude Code.** Turn your own resume, notes, project documentation and target job descriptions into clear, copy-ready profile content—then review and paste the changes yourself.
 
 [![CI](https://github.com/T-Bone47/profilecraft-claude/actions/workflows/ci.yml/badge.svg)](https://github.com/T-Bone47/profilecraft-claude/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)

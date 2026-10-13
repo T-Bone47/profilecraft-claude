@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="512" viewBox="0 0 1280 512" role="img" aria-labelledby="title desc">
+<title id="title">ProfileCraft for Claude Code</title>
+<desc id="desc">A dark navy and orange banner for a manual-first LinkedIn profile writing plugin with audit, optimization, job tailoring and project writing skills.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#080d16"/><stop offset=".6" stop-color="#0d1725"/><stop offset="1" stop-color="#111b2a"/></linearGradient>
+  <linearGradient id="orange" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffb15e"/><stop offset="1" stop-color="#f36a27"/></linearGradient>
+  <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#36b9ff"/><stop offset="1" stop-color="#2675e8"/></linearGradient>
+  <radialGradient id="glow"><stop offset="0" stop-color="#f8782e" stop-opacity=".22"/><stop offset="1" stop-color="#f8782e" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#8fb5d7" stroke-opacity=".075" stroke-width="1"/></pattern>
+  <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="10" stdDeviation="10" flood-color="#000" flood-opacity=".4"/></filter>
+</defs>
+<rect width="1280" height="512" rx="20" fill="url(#bg)"/>
+<rect width="1280" height="512" rx="20" fill="url(#grid)"/>
+<ellipse cx="1120" cy="220" rx="420" ry="320" fill="url(#glow)"/>
+<path d="M0 455 C270 370 540 540 810 440 S1120 390 1280 450V512H0Z" fill="#f36a27" opacity=".045"/>
+<!-- Brand -->
+<rect x="42" y="43" width="76" height="76" rx="19" fill="url(#orange)"/>
+<circle cx="72" cy="67" r="10" fill="#101827"/>
+<path d="M55 98c1-13 8-20 17-20s16 7 17 20" fill="#101827"/>
+<path d="M81 91l16-17 8 8-17 16-9 2z" fill="#101827"/>
+<path d="M96 74l5-5 8 8-5 5" fill="#101827"/>
+<text x="139" y="91" fill="#f7f9fc" font-family="Inter,Arial,sans-serif" font-size="57" font-weight="800" letter-spacing="-2">Profile<tspan fill="#ff9347">Craft</tspan></text>
+<text x="143" y="122" fill="#a8bbd0" font-family="Inter,Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="6">FOR CLAUDE CODE</text>
+<text x="42" y="174" fill="#f6f8fb" font-family="Inter,Arial,sans-serif" font-size="29" font-weight="750" letter-spacing="-.6">Your experience. Your story. <tspan fill="#ff9347">Better presented.</tspan></text>
+<text x="43" y="205" fill="#a8bbd0" font-family="Inter,Arial,sans-serif" font-size="16">Evidence-based LinkedIn profile writing, career positioning and project storytelling.</text>
+<!-- Capability cards -->
+<g filter="url(#shadow)">
+  <rect x="42" y="235" width="166" height="145" rx="13" fill="#0a1320" stroke="#24435b"/>
+  <rect x="220" y="235" width="166" height="145" rx="13" fill="#0a1320" stroke="#24435b"/>
+  <rect x="398" y="235" width="166" height="145" rx="13" fill="#0a1320" stroke="#24435b"/>
+  <rect x="576" y="235" width="166" height="145" rx="13" fill="#0a1320" stroke="#24435b"/>
+</g>
+<!-- Icons -->
+<circle cx="72" cy="266" r="13" fill="none" stroke="#49b8ff" stroke-width="5"/><path d="M82 276l10 10" stroke="#49b8ff" stroke-width="5" stroke-linecap="round"/>
+<path d="M244 252h25l9 9v20h-34z" fill="#ff9347"/><path d="M250 261h15M250 268h15M250 275h9" stroke="#152033" stroke-width="2"/><path d="M270 280l13-13 6 6-13 13-8 2z" fill="#ff9347"/>
+<circle cx="424" cy="266" r="12" fill="none" stroke="#b58aff" stroke-width="4"/><path d="M422 272l18-17M432 255h8v8" fill="none" stroke="#b58aff" stroke-width="3" stroke-linecap="round"/>
+<path d="M607 278v-19h8v19M620 278v-28h8v28M633 278v-12h8v12" stroke="#52d6a0" stroke-width="5" fill="none" stroke-linejoin="round"/>
+<g font-family="Inter,Arial,sans-serif">
+  <text x="58" y="312" fill="#f4f7fb" font-size="16" font-weight="750">Profile Audit</text>
+  <text x="58" y="338" fill="#a8bbd0" font-size="13">Find gaps and</text><text x="58" y="356" fill="#a8bbd0" font-size="13">prioritize fixes</text>
+  <text x="236" y="312" fill="#f4f7fb" font-size="16" font-weight="750">Optimize</text>
+  <text x="236" y="338" fill="#a8bbd0" font-size="13">Sharper headline,</text><text x="236" y="356" fill="#a8bbd0" font-size="13">About and bullets</text>
+  <text x="414" y="312" fill="#f4f7fb" font-size="16" font-weight="750">Job Tailoring</text>
+  <text x="414" y="338" fill="#a8bbd0" font-size="13">Match real evidence</text><text x="414" y="356" fill="#a8bbd0" font-size="13">to target roles</text>
+  <text x="592" y="312" fill="#f4f7fb" font-size="16" font-weight="750">Project Writer</text>
+  <text x="592" y="338" fill="#a8bbd0" font-size="13">Turn builds into</text><text x="592" y="356" fill="#a8bbd0" font-size="13">clear showcases</text>
+</g>
+<!-- Trust principles -->
+<g font-family="Inter,Arial,sans-serif">
+  <path d="M44 410l10 4v10l-10 8-10-8v-10z" fill="#52d6a0"/><path d="M39 420l4 4 7-8" fill="none" stroke="#062218" stroke-width="2.4"/>
+  <text x="61" y="419" fill="#52d6a0" font-size="13" font-weight="750">Privacy-conscious</text><text x="61" y="436" fill="#9eb0c5" font-size="11">Your drafts stay with you</text>
+  <circle cx="265" cy="420" r="10" fill="#9e7bff"/><circle cx="265" cy="413" r="4" fill="#101827"/><path d="M252 430c1-8 6-11 13-11s12 3 13 11" fill="#101827"/>
+  <text x="283" y="419" fill="#b9a1ff" font-size="13" font-weight="750">Evidence-first</text><text x="283" y="436" fill="#9eb0c5" font-size="11">No invented achievements</text>
+  <path d="M482 409l3 8 8 3-8 3-3 8-3-8-8-3 8-3z" fill="#49b8ff"/>
+  <text x="499" y="419" fill="#49b8ff" font-size="13" font-weight="750">Manual approval</text><text x="499" y="436" fill="#9eb0c5" font-size="11">You choose what to use</text>
+  <path d="M688 430v-13h7v13m6 0v-21h7v21m6 0v-16h7v16" fill="none" stroke="#ff9347" stroke-width="3"/>
+  <text x="722" y="419" fill="#ffad73" font-size="13" font-weight="750">Career-ready</text><text x="722" y="436" fill="#9eb0c5" font-size="11">Clear, grounded content</text>
+</g>
+<!-- Plugin panel -->
+<g filter="url(#shadow)">
+  <rect x="786" y="30" width="447" height="302" rx="18" fill="#0a1320" stroke="#29475f"/>
+  <rect x="786" y="30" width="447" height="43" rx="18" fill="#101e30"/>
+  <path d="M786 55h447v18H786z" fill="#101e30"/>
+</g>
+<circle cx="811" cy="51" r="6" fill="#f68b43"/><circle cx="830" cy="51" r="6" fill="#4dbbff"/><circle cx="849" cy="51" r="6" fill="#5dd8a4"/>
+<text x="870" y="56" fill="#dce6f1" font-family="Inter,Arial,sans-serif" font-size="14" font-weight="700">Claude Code</text>
+<rect x="808" y="89" width="403" height="43" rx="9" fill="#111f32" stroke="#263d55"/>
+<text x="826" y="116" fill="#ffad73" font-family="monospace" font-size="16">/profilecraft</text>
+<g font-family="Inter,Arial,sans-serif" font-size="14" fill="#b7c9da">
+  <circle cx="820" cy="159" r="8" fill="#1b8768"/><path d="M816 159l3 3 5-6" fill="none" stroke="#d4fff0" stroke-width="2"/><text x="840" y="164">Audit profile and identify gaps</text>
+  <circle cx="820" cy="195" r="8" fill="#1b8768"/><path d="M816 195l3 3 5-6" fill="none" stroke="#d4fff0" stroke-width="2"/><text x="840" y="200">Rewrite with verified evidence</text>
+  <circle cx="820" cy="231" r="8" fill="#1b8768"/><path d="M816 231l3 3 5-6" fill="none" stroke="#d4fff0" stroke-width="2"/><text x="840" y="236">Tailor to a target job</text>
+  <circle cx="820" cy="267" r="8" fill="#1b8768"/><path d="M816 267l3 3 5-6" fill="none" stroke="#d4fff0" stroke-width="2"/><text x="840" y="272">Validate length and unsupported claims</text>
+</g>
+<rect x="808" y="292" width="403" height="24" rx="7" fill="#172c3b"/><text x="824" y="308" fill="#6fe0b3" font-family="Inter,Arial,sans-serif" font-size="11" font-weight="700">DRAFT  •  REVIEW  •  APPROVE  •  COPY</text>
+<!-- Profile content card -->
+<rect x="1005" y="350" width="228" height="126" rx="13" fill="#0d1b2a" stroke="#36526b"/>
+<rect x="1005" y="350" width="228" height="29" rx="13" fill="#14283d"/><path d="M1005 365h228v14h-228z" fill="#14283d"/>
+<text x="1020" y="369" fill="#5ebcff" font-family="Inter,Arial,sans-serif" font-size="11" font-weight="700">PROFILE DRAFT</text>
+<circle cx="1036" cy="404" r="15" fill="#254760" stroke="#fb9652" stroke-width="2"/><circle cx="1036" cy="400" r="5" fill="#d3e2ef"/><path d="M1026 414c2-9 18-9 20 0" fill="#d3e2ef"/>
+<rect x="1061" y="392" width="145" height="7" rx="3" fill="#e4edf5" opacity=".9"/><rect x="1061" y="405" width="112" height="5" rx="2" fill="#7690aa"/><rect x="1020" y="430" width="189" height="5" rx="2" fill="#7690aa"/><rect x="1020" y="442" width="177" height="5" rx="2" fill="#7690aa"/><rect x="1020" y="456" width="96" height="10" rx="5" fill="#1b76c8"/>
+<!-- Small desk illustration -->
+<path d="M806 476h422" stroke="#f58e43" stroke-opacity=".7" stroke-width="2"/>
+<rect x="819" y="454" width="152" height="20" rx="5" fill="#132233" stroke="#30495f"/><text x="832" y="468" fill="#f8a05a" font-family="Inter,Arial,sans-serif" font-size="11" font-weight="700">BETTER PROFILES</text>
+<path d="M964 454l28-44 29 44" fill="none" stroke="#f58e43" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity=".7"/>
+<rect x="951" y="474" width="258" height="8" rx="4" fill="#243346"/>
+<text x="42" y="488" fill="#7f95ac" font-family="Inter,Arial,sans-serif" font-size="11">OPEN SOURCE  ·  MIT LICENSE  ·  COMMUNITY DRIVEN</text>
+<text x="1236" y="489" fill="#ff9347" font-family="Inter,Arial,sans-serif" font-size="11" text-anchor="end">PROFILECRAFT</text>
+</svg>
